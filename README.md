@@ -52,11 +52,11 @@ my_navy> ./my_navy [pid_player_1] map2.txt
 
 |**Test**|**Result**|**Mouli**|
 |--|--|--|
-|Cheater|1 / 1|100%|
-|Basic signal|2 / 2|100%|
-|Rigor|8 / 8|100%|
-|Protocol|4 / 4|100%|
-|Game|7 / 8|87.5%|
+|00 - Cheater|1 / 1|100%|
+|01 - Basic signal|2 / 2|100%|
+|02 - Rigor|8 / 8|100%|
+|03 - Protocol|4 / 4|100%|
+|04 - Game|7 / 8|87.5%|
 |**__Total__**|22 / 23 |**95.7%**|
 |Coding Style|1 / 1|
 
