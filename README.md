@@ -62,6 +62,6 @@ my_navy> ./my_navy [pid_player_1] map2.txt
 
 ## Authors
 
-- DELEGER Nathan ([LinkeIn](https://www.linkedin.com/in/nathan-deleger-0a057a2a0/))
+- DELEGER Nathan ([LinkedIn](https://www.linkedin.com/in/nathan-deleger-0a057a2a0/))
 
-- SMOTER Noa ([LinkeIn](https://www.github.com/nerzouille) / [Portfolio](https://nerzouille.github.io/))
+- SMOTER Noa ([LinkedIn](https://www.linkedin.com/in/noa-smoter/) / [Portfolio](https://nerzouille.github.io/))
